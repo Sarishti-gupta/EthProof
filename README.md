@@ -27,9 +27,10 @@ pragma solidity 0.8.18;
 
 
 
+//copy
 
-
-contract MyToken {
+contract MyToken
+{
     // public variables here
     string public tokenName = "META";
     string public tokenAbbrv = "MTA";
